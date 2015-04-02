@@ -24,7 +24,7 @@
 *.maf
 *.mtc
 *.mtc0
-*
 !*.tex
 !*.sty
 !*.cls
+!*.pdf
